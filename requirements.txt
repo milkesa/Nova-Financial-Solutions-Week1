@@ -1,0 +1,17 @@
+numpy
+pandas
+yfinance
+ta-lib
+matplotlib
+seaborn
+plotly
+nltk
+textblob
+vaderSentiment
+requests
+beautifulsoup4
+scikit-learn
+jupyterlab
+xgboost
+lightgbm
+tensorflow
