@@ -20,6 +20,9 @@ ENV/
 logs/
 
 # Data and Models
+# Data
+data/raw/
+data/processed/
 data/
 datasets/
 models/
