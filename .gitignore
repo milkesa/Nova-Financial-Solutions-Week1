@@ -20,12 +20,16 @@ ENV/
 logs/
 
 # Data and Models
+# Data
+data/raw/
+data/processed/
 data/
 datasets/
 models/
 *.h5
 *.pkl
 *.csv
+makefile
 
 # Configs
 .env
@@ -40,3 +44,24 @@ dist/
 # OS files
 .DS_Store
 Thumbs.db
+
+
+# Compiled libraries
+*.so
+*.a
+*.o
+*.dll
+*.lib
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+*.whl
+ta-lib/
+
+
+
+
+
