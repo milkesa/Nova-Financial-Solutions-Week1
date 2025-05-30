@@ -15,3 +15,8 @@ jupyterlab
 xgboost
 lightgbm
 tensorflow
+pandas
+
+pandas
+matplotlib
+seaborn
